@@ -1,5 +1,5 @@
   
 {
-  "foo": "bar",
-  "title": "This title is from sub1"
+  "custom1.foo": "bar",
+  "custom1.title": "This title is from sub1"
 }
