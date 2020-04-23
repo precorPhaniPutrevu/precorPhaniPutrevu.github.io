@@ -1,4 +1,4 @@
 {
-  "foo": "bar2",
-  "title": "This is the title for sub2"
+  "custom2.foo": "bar2",
+  "custom2.title": "This is the title for sub2"
 }
