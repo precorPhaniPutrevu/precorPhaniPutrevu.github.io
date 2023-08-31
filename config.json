@@ -1,0 +1,14 @@
+{
+ "config": [
+ 	{
+	  "type": "app",
+	  "appId": "MyID1",
+	  "path": "\/page1", adjacentAppId":"PRECORWORKOUTS","beforeAdjacent":true
+   	},
+        {
+          "type": "app",
+          "appId": "Music",
+          "path": "\/page2", adjacentAppId":"PRECORWORKOUTS","beforeAdjacent":true
+        },
+	]
+}
